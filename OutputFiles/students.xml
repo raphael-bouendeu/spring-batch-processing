@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <email>raphael@yajoo.de</email>
+        <firstName>resobeto</firstName>
+        <id>1</id>
+        <lastName>berneard</lastName>
+    </student>
+    <student>
+        <email>sergio@yahoo.de</email>
+        <firstName>raphael</firstName>
+        <id>2</id>
+        <lastName>bouendeu</lastName>
+    </student>
+    <student>
+        <email>raphaelo@yahoo.de</email>
+        <firstName>bisutque</firstName>
+        <id>3</id>
+        <lastName>milla</lastName>
+    </student>
+    <student>
+        <email>alberto@yaho-de</email>
+        <firstName>cameroun</firstName>
+        <id>4</id>
+        <lastName>algeria</lastName>
+    </student>
+</students>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <id>1</id>
+        <firstName>Bouendeu</firstName>
+        <lastName>Raphael</lastName>
+        <email>raphael@yahoo.de</email>
+    </student>
+    <student>
+        <id>2</id>
+        <firstName>Bouendeu2</firstName>
+        <lastName>Raphael2</lastName>
+        <email>raphael2@yahoo.de</email>
+    </student>
+    <student>
+        <id>3</id>
+        <firstName>Bouendeu3</firstName>
+        <lastName>Raphael3</lastName>
+        <email>raphael3@yahoo.de</email>
+    </student>
+    <student>
+        <id>4</id>
+        <firstName>Bouendeu4</firstName>
+        <lastName>Raphael4</lastName>
+        <email>raphael4@yahoo.de</email>
+    </student>
+</students>

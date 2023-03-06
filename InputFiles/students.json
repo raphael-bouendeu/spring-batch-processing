@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Bouendeu",
+    "email": "raoul@yahoo.de"
+  },
+  {
+    "id": 2,
+    "firstName": "John2",
+    "lastName": "Bouendeu2",
+    "email": "raou2l@yahoo.de"
+  },
+  {
+    "id": 3,
+    "firstName": "John3",
+    "lastName": "Bouendeu3",
+    "email": "raoul3@yahoo.de"
+  },
+  {
+    "id": 4,
+    "firstName": "John4",
+    "lastName": "Bouendeu4",
+    "email": "raoul4@yahoo.de"
+  }
+]
